@@ -7,7 +7,7 @@ Features include smooth hover effects, keyboard-friendly navigation, a fullscree
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** []()
+🔗 **Live Website:** [https://dileep-kumawat.github.io/Photo-Gallery-using-html-css-and-js/](https://dileep-kumawat.github.io/Photo-Gallery-using-html-css-and-js/)
 
 ---
 
